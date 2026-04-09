@@ -117,7 +117,7 @@ h3{font-size:18px;font-weight:800}
   box-shadow:0 1px 0 rgba(0,0,0,.03);
 }
 .stat-card{padding:18px 22px;text-align:center;width:140px;justify-self:center}
-.stat-card .num{font-size:40px;font-weight:800;margin:8px 0}
+.stat-card .num{font-size:40px;font-weight:800;margin:8px auto;display:block;width:100%}
 .eyebrow{font-size:10px;text-transform:uppercase;font-weight:800;letter-spacing:.5px;color:#555;margin-bottom:8px}
 .tiny{font-size:10px;line-height:1.5;color:#777}
 
