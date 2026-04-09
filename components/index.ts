@@ -1,0 +1,12 @@
+export { default as Topbar } from "./Topbar";
+export { default as Hero } from "./Hero";
+export { default as About } from "./About";
+export { default as Methodology } from "./Methodology";
+export { default as Gallery } from "./Gallery";
+export { default as Features } from "./Features";
+export { default as Success } from "./Success";
+export { default as Plans } from "./Plans";
+export { default as Team } from "./Team";
+export { default as Clients } from "./Clients";
+export { default as Contact } from "./Contact";
+export { default as Footer } from "./Footer";
